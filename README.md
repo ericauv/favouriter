@@ -1,6 +1,9 @@
-# Awesome Links
+# Favouriter
 
-This project is the source code for the tutorial series of three parts about building a Fullstack Web application With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL.
+For favouriting artists, items, listings on art marketplaces.
+
+Original source code from:
+https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw - the source code for the tutorial series of three parts about building a Fullstack Web application With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL.
 
 Here is what you will learn:
 ### Part 1
